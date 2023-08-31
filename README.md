@@ -1,3 +1,5 @@
+https://github.com/KimJun1010/WeblogicTool
+
 # WeblogicTool
 ## 简介
 迫于目前现有的weblogic工具没怎么更新、payloayjdk适用版本等问题，所以基于superman18、sp4zcmd等项目，写一个weblogic工具，工具运行版本要求jdk 8（深信服深蓝实验室天威战队强力驱动）
